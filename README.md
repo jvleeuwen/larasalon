@@ -2,3 +2,5 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/f8634c57ae1a7632e6d0/maintainability)](https://codeclimate.com/github/jvleeuwen/larasalon/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f8634c57ae1a7632e6d0/test_coverage)](https://codeclimate.com/github/jvleeuwen/larasalon/test_coverage)
+
+[![StyleCI](https://github.styleci.io/repos/200736386/shield?branch=develop)](https://github.styleci.io/repos/200736386)
